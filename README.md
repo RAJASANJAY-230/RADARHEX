@@ -24,7 +24,7 @@ The current prototype includes:
 - Embedded firmware
 - Real-time serial monitoring
 
-## ⚙️ System Architecture
+## ⚙️ System Architecture :
 
 ```text
         mmWave Radar
